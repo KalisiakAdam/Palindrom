@@ -1,5 +1,4 @@
-
-// Is it palindrom word?
+// function describe if inputted word is palindrom word?
 
 function polin(word) {
     var wordPolin = "";
