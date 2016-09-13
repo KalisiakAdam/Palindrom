@@ -1,0 +1,25 @@
+#
+container {
+    background - color: #dee1e1;
+    width: 1700 px;
+    height: 1000 px;
+
+}#
+main {
+    width: 300 px;
+    height: 400 px;
+    margin: 0 auto;
+    display: center;
+    padding - top: 50 px;
+    padding - left: 20 px;
+
+}#
+header {
+    width: 300 px;
+    padding - top: 50 px;
+
+    margin: 0 auto;
+    display: center;
+
+
+}
