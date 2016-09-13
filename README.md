@@ -7,10 +7,9 @@ function polin(word) {
         wordPolin += word[j];
     }
     if (wordPolin === word) {
-
-        document.write(word + " Jest odwracalne");
+        document.write(word + " is palindrom, wow");
     } else {
-        document.write(word + " Nie jest odwracalne");
+        document.write(word + " unfortunately is not a palindrom");
     }
 }
 //polin("kajak");
