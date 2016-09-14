@@ -5,15 +5,10 @@ function polin(){
             wordPolin+= word[j];
         }
 		if (wordPolin===word){
-		
-			
 			document.getElementById("yes").innerHTML = "Słowo " + word + " jest palindromem.";
 		}
 		else{
-		
 			document.getElementById("no").innerHTML = "Słowo " + word + " nie jest palindromem.";
-		}
-	
+		}	
 }
-
 polin(word);
